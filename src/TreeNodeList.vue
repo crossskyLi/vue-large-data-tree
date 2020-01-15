@@ -22,7 +22,7 @@ export default {
   created () {
     this.$tree = this.$parent.$tree
 
-    this.size = 1000
+    this.size = 20
   },
   methods: {
     setSonNode () {
